@@ -1,0 +1,30 @@
+.cart-card {
+    width: 100%; /* Set to 100% of the column */
+    max-width: 600px; /* Adjust this value to your desired max width */
+    margin: 0 auto; /* Center the card in the column */
+  }
+  
+  .card {
+    border: 1px solid #ddd; /* Light border */
+  }
+  
+  .card-body {
+    padding: 15px; /* Padding for content spacing */
+  }
+  
+  .btn {
+    width: 100%; /* Full width buttons for better alignment */
+  }
+  
+  .card-title {
+    font-size: 1.25rem; /* Adjust title size */
+  }
+  
+  .card-text {
+    font-size: 1rem; /* Adjust price size */
+  }
+  
+  .img-fluid {
+    height: auto; /* Make images responsive */
+  }
+  

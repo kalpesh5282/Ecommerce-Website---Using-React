@@ -1,0 +1,27 @@
+.cart-card {
+    width: 100%; /* Ensures the card takes full width */
+    max-width: 700px; /* You can adjust this value to your desired width */
+    margin: 20px auto; /* Centers the card horizontally with some vertical space */
+  }
+  
+  .cart-card .card-body {
+    padding: 20px; /* Increase padding for better spacing */
+  }
+  
+  .cart-card img {
+    width: 100%; /* Ensures the image takes full width of the container */
+    height: auto; /* Keeps aspect ratio */
+  }
+  
+  .card-title {
+    font-size: 1.2rem; /* Adjust title font size */
+  }
+  
+  .card-text {
+    font-size: 1rem; /* Adjust text font size */
+  }
+  
+  .btn {
+    width: 100%; /* Full-width button for consistency */
+  }
+  
